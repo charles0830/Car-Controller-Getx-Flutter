@@ -60,6 +60,6 @@ We would like to thank the Flutter and GetX communities for their valuable contr
 
 If you have any questions or suggestions regarding the Car Control Dashboard app, feel free to contact us at chberry830@gmail.com
 
-
+<a href="https://www.buymeacoffee.com/chberry830"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 
 
